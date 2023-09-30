@@ -1,0 +1,7 @@
+@import url(./styles.css);
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 3.594rem 2.578rem 0 1.047rem;
+}

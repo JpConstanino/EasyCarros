@@ -1,0 +1,32 @@
+@import url(../styles/styles.css);
+
+
+.inputs__align {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 3.594rem;
+}
+
+h1 {
+    color: var(--cor-tercearia);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.botoes {
+    display: flex;
+}
+
+.a__style {
+    color: var(--cor-primaria);
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 12.938rem;
+}

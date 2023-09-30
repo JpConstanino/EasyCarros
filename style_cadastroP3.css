@@ -1,0 +1,31 @@
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputs__verEmail__style {
+    display: flex;
+    width: 3.281rem;
+    height: 4.25rem;
+    background-color: red;
+    margin: 0 1.094rem 0 0;
+}
+
+.inputs__verEmail_align {
+    display: flex;
+    flex-direction: row;
+}
+
+.verificacao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0 1.656rem;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 12.938rem;
+}
